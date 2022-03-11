@@ -1,0 +1,7 @@
+name: ExampleClickableItem
+version: '${version}'
+main: com.iridium.exampleclickableitem.ExampleClickableItem
+api-version: 1.18
+load: STARTUP
+authors: [ Kezu14 ]
+description: Пример добавления эвента к предмету, без кучи говна в эвенты 
